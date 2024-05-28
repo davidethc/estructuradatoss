@@ -1,0 +1,11 @@
+LA3891 Loja Central de Riesgo USD490
+TM9883 Loja Central de Riesgo USD456
+MP0128 Quito Central de Riesgo USD200
+MG1191 Zamora Central de Riesgo USD100
+AM4583 Cuenca Central de Riesgo USD303
+PN6728 Quito Central de Riesgo USD123
+HF3876 Cuenca Central de Riesgo	USD239
+MR5915 Zamora Central de Riesgo USD309
+VM8928 Cuenca Central de Riesgo USD345
+CC0934 Zamora Central de Riesgo USD101
+DS4900 Loja Central de Riesgo USD134
